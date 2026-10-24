@@ -1,0 +1,18 @@
+{
+  "modele": "logit_SGO_ADAS",
+  "source_donnees": "NHTSA SGO/ADAS",
+  "date_calcul": "2026-10-24T22:33:49.405182",
+  "risque_relatif_fsd": 1.465802294929236,
+  "ic_inf": 0.41843039164532,
+  "ic_sup": 5.134847780466775,
+  "variation_risque_pct": 46.5802294929236,
+  "nb_vehicules": 2289,
+  "kilometrage_total_km": null,
+  "nb_accidents": 31,
+  "nb_accidents_total": 2289,
+  "modele_converge": true,
+  "variable_principale": "is_tesla (proxy FSD, pas d'info FSD directe dans NHTSA)",
+  "transfert_europe_hypothese": "H1 — non transférable sans récalibration sur données européennes",
+  "recommandation": "Recalibrer sur données européennes avant toute tarification UE. Ne pas appliquer le facteur USA directement.",
+  "limitation": "FARS = accidents mortels uniquement. SGO/ADAS = rapports d'incidents sans kilométrage. Taux par 100 000 km non calculable."
+}
