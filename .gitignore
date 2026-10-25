@@ -14,3 +14,6 @@ data/
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+
+# Fichiers temporaires de commit
+COMMIT_MSG.txt
