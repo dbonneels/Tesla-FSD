@@ -11,3 +11,6 @@ wheels/
 
 # Données brutes NHTSA (trop lourdes pour Git)
 data/
+
+# Notebook checkpoints
+.ipynb_checkpoints/

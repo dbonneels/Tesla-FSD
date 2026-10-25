@@ -1,0 +1,6 @@
+feat: update EDA and modeling notebooks, regenerate dashboard data
+
+- 01_eda.ipynb: prise en charge des données FARS 2024 (fars/, crss/)
+- 02_modeling.ipynb: régression logistique avec fallback risque relatif brut, export dashboard_data.json
+- dashboard_data.json: régénéré avec les résultats du modèle sur données NHTSA réelles
+- .gitignore: ajout de .ipynb_checkpoints/

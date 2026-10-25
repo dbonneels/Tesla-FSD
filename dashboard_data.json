@@ -1,7 +1,7 @@
 {
   "modele": "logit_SGO_ADAS",
   "source_donnees": "NHTSA SGO/ADAS",
-  "date_calcul": "2026-10-24T22:33:49.405182",
+  "date_calcul": "2026-10-25T05:58:48.119671",
   "risque_relatif_fsd": 1.465802294929236,
   "ic_inf": 0.41843039164532,
   "ic_sup": 5.134847780466775,
